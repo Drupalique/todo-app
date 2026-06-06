@@ -9,6 +9,10 @@ A simple todo app built with React and Vite.
 - Delete tasks with the ✕ button
 - Live count of remaining tasks
 
+## New sections
+
+- Adding frog form.
+
 ## Getting Started
 
 ```bash
